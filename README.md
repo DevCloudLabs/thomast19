@@ -1,30 +1,146 @@
-# Hello, I'm [Thomas Thornton](https://www.linkedin.com/in/thomas-thornton-21a86b75/) 👋
+<div align="center">
 
-I'm a Microsoft Azure blogger with over 1 million blog views, a Microsoft MVP, a GitHub Star, and a HashiCorp 2024 Ambassador. I love sharing my knowledge and contributing to the tech community.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Cloud+Architect+%7C+Technical+Lead+%7C+Microsoft+MVP;HashiCorp+Ambassador+%7C+GitHub+Star;Building+platforms+developers+actually+love)](https://git.io/typing-svg)
 
-[![Twitter](https://img.shields.io/twitter/follow/tamstar1234?style=social)](https://twitter.com/tamstar1234)
+# 👋 I'm Thomas Thornton
+
+### Azure Architect • Technical Lead • Agentic AI & Platform Engineering
+
+**[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004187?fullName=Thomas%20Thornton)** • **[GitHub Star](https://stars.github.com/profiles/thomast1906)** • **[HashiCorp Ambassador](https://www.credly.com/badges/e5631c9f-5739-4bd1-86cc-913b929d34d9/linked_in_profile)**
+
+[![Website](https://img.shields.io/badge/🌐_thomasthornton.cloud-0078D4?style=for-the-badge)](https://thomasthornton.cloud/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-thornton-21a86b75/)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tamstar1234)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/thomast1906.bsky.social)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas@thomasthornton.cloud)
 
-## 🚀 About Me
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=thomast1906.thomast1906&left_color=grey&right_color=0078D4)
 
-- 🌐 Check out my blog at [thomasthornton.cloud](https://thomasthornton.cloud/)
-- 🏅 View my [Microsoft MVP Profile](https://mvp.microsoft.com/en-us/PublicProfile/5004187?fullName=Thomas%20Thornton)
-- ⭐ See my [GitHub Star Profile](https://stars.github.com/profiles/thomast1906)
-- 🎖️ Visit my [HashiCorp Ambassador Profile](https://www.credly.com/badges/e5631c9f-5739-4bd1-86cc-913b929d34d9/linked_in_profile)
+</div>
 
-## 📊 My GitHub Stats
+> My blog content has had over 1 million views. I work as a cloud architect and technical lead, designing Azure infrastructure, building internal developer platforms, and writing about what I actually run into on the job.
 
-| My GitHub Statistics | Top Languages |
-| --- | --- |
-| ![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api/?username=thomast1906&show_icons=true&count_private=true&title_color=fffffff&icon_color=000000&text_color=000000) | ![Thomas' Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thomast1906&layout=compact&theme=radical) |
+---
 
-[![Thomas' GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thomast1906&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 💡 What I Do
 
-## 📚 Other Content
+I'm a cloud architect and technical lead working across Azure infrastructure, Platform Engineering, and AI-driven automation.
 
-- [Blog Features](https://thomasthornton.cloud/blog-features/)
-- [Speaking and Events](https://thomasthornton.cloud/speaking-events/)
+Day to day that means designing and shipping Azure architectures, leading engineering teams, and building the internal platforms that help developers move quicker.
 
-## 📬 Get in Touch
+A few things I spend most of my time on:
 
-- [Email](mailto:thomas@thomasthornton.cloud)
+- 🏗️ Designing and leading Azure infrastructure delivery — security-first, cost-aware, and maintainable by the team that inherits it
+- 🚀 Building Internal Developer Platforms with self-service infrastructure, golden paths, and AI automation (Agentic AI + GitHub Copilot) that developers actually want to use
+- 📝 Writing technical content that's useful before a real deployment, not just in a demo environment
+- 🎤 Sharing what works — and what didn't — on my socials and at community events
+- 🔧 Open source IaC modules and tooling built around problems I've hit myself
+
+---
+
+## 🔭 What I'm working on in 2026
+
+- 🤖 Agentic AI and GitHub Copilot workflows with Azure OpenAI and AI Search
+- 🛡️ Internal Developer Platforms that scale without becoming a governance headache
+- ⚡ FinOps: actual cost reduction, not just right-sizing recommendations
+- 🔐 Zero Trust in Azure — identity-first, done properly
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### ☁️ Cloud
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🏗️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### ⚙️ CI/CD & Automation
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AKS](https://img.shields.io/badge/Azure_AKS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 💻 Languages & Scripting
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🤖 Platform Engineering & AI
+![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-FF6B6B?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Developer Experience](https://img.shields.io/badge/DevEx-4ECDC4?style=for-the-badge&logo=speedtest&logoColor=white)
+![AI Agents](https://img.shields.io/badge/Agentic_AI-00D9FF?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomast1906&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thomast1906&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thomast1906&theme=github)
+
+</div>
+
+<div align="center">
+
+[![Thomas' GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thomast1906&bg_color=ffffff&color=0078D4&line=0078D4&point=003087&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- This section is auto-updated by the blog-post-workflow GitHub Action -->
+<!-- See: https://github.com/gautamkrishnar/blog-post-workflow -->
+<!-- BLOG-POST-LIST:END -->
+
+**Topics I write about:**
+- Azure Architecture & Production Patterns
+- Platform Engineering & Internal Developer Platforms
+- Agentic AI & GitHub Copilot automation
+- Terraform & Infrastructure as Code
+- GitHub Actions & CI/CD at scale
+- Kubernetes/AKS & container strategies
+- Cloud Security & Zero Trust governance
+- FinOps & cost optimisation
+
+---
+
+## 🤝 Get in touch
+
+<div align="center">
+
+Open to speaking at conferences and meetups, collaborating on open source, and connecting with engineers working on Azure, agentic AI and Platform Engineering.
+
+[![Website](https://img.shields.io/badge/Website-thomasthornton.cloud-0078D4?style=flat-square)](https://thomasthornton.cloud/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thomas-thornton-21a86b75/)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=flat-square&logo=x)](https://twitter.com/tamstar1234)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/thomast1906.bsky.social)
+[![Email](https://img.shields.io/badge/Email-thomas@thomasthornton.cloud-D14836?style=flat-square&logo=gmail)](mailto:thomas@thomasthornton.cloud)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Anyone can get it working. The craft is building it so well that nobody has to think about it at 3 AM."*
+
+⭐️ If something here is useful, share it or drop me a message.
+
+</div>
