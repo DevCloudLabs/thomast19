@@ -105,11 +105,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Diagram Agent Skill with Draw.io MCP](https://thomasthornton.cloud/aws-diagram-agent-skill-with-draw-io-mcp/)
+- [Automating Terraform provider upgrades with GitHub Agentic Workflows](https://thomasthornton.cloud/automating-terraform-provider-upgrades-with-github-agentic-workflows/)
 - [Azure Diagram Agent Skill with Draw.io MCP](https://thomasthornton.cloud/azure-diagram-agent-skill-with-draw-io-mcp/)
 - [Draw.io MCP for Diagram Generation: Why It’s Worth Using](https://thomasthornton.cloud/draw-io-mcp-for-diagram-generation-why-its-worth-using/)
 - [Why You Should Use GitHub Agentic Workflows](https://thomasthornton.cloud/why-you-should-use-github-agentic-workflows/)
-- [Building Better Azure Terraform Modules with GitHub Copilot Agents and Skills](https://thomasthornton.cloud/building-better-azure-terraform-modules-with-github-copilot-agents-and-skills/)
-- [Running GitHub Copilot SDK Inside GitHub Actions](https://thomasthornton.cloud/running-github-copilot-sdk-inside-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
