@@ -1,49 +1,53 @@
 <div align="center">
 
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Cloud+Architect+%7C+Technical+Lead+%7C+Microsoft+MVP;HashiCorp+Ambassador+%7C+GitHub+Star;Building+platforms+developers+actually+love)](https://git.io/typing-svg)-->
 
 # 👋 I'm Reda Oujane
 
 ### AI & Data Enthusiast • Software Developer • Agentic AI & Platform Engineering
 
-**[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004187?fullName=Thomas%20Thornton)** • **[GitHub Star](https://stars.github.com/profiles/thomast1906)** • **[HashiCorp Ambassador](https://www.credly.com/badges/e5631c9f-5739-4bd1-86cc-913b929d34d9/linked_in_profile)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redaoujane/)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:accclient.ppl@gmail.com)
 
-[![Website](https://img.shields.io/badge/🌐_thomasthornton.cloud-0078D4?style=for-the-badge)](https://thomasthornton.cloud/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-thornton-21a86b75/)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tamstar1234)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/thomast1906.bsky.social)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas@thomasthornton.cloud)
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=thomast1906.thomast1906&left_color=grey&right_color=0078D4)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=redaoujane.redaoujane&left_color=grey&right_color=0078D4)
 
 </div>
 
-> My blog content has had over 1 million views. I work as a cloud architect and technical lead, designing Azure infrastructure, building internal developer platforms, and writing about what I actually run into on the job.
+> Building intelligent systems, secure infrastructures, and scalable AI-powered solutions.
 
 ---
 
-## 💡 What I Do
+## 💡 About Me
 
-I'm a cloud architect and technical lead working across Azure infrastructure, Platform Engineering, and AI-driven automation.
+I am a developer specializing in **Artificial Intelligence, Cloud Infrastructure, and Cybersecurity**.
 
-Day to day that means designing and shipping Azure architectures, leading engineering teams, and building the internal platforms that help developers move quicker.
+I design and build **AI-powered applications**, deploy them on scalable cloud environments, and ensure they are secure by design.
 
-A few things I spend most of my time on:
+My work focuses on combining:
+- 🤖 AI/ML models and automation
+- ☁️ Cloud-native architecture and deployment
+- 🔐 Security-first engineering and threat mitigation
 
-- 🏗️ Designing and leading Azure infrastructure delivery — security-first, cost-aware, and maintainable by the team that inherits it
-- 🚀 Building Internal Developer Platforms with self-service infrastructure, golden paths, and AI automation (Agentic AI + GitHub Copilot) that developers actually want to use
-- 📝 Writing technical content that's useful before a real deployment, not just in a demo environment
-- 🎤 Sharing what works — and what didn't — on my socials and at community events
-- 🔧 Open source IaC modules and tooling built around problems I've hit myself
+I aim to create solutions that are not only intelligent, but also production-ready and secure.
 
 ---
 
 ## 🔭 What I'm working on in 2026
 
-- 🤖 Agentic AI and GitHub Copilot workflows with Azure OpenAI and AI Search
-- 🛡️ Internal Developer Platforms that scale without becoming a governance headache
-- ⚡ FinOps: actual cost reduction, not just right-sizing recommendations
-- 🔐 Zero Trust in Azure — identity-first, done properly
+- 🧠 **Predictive Models**
+  - Machine learning models for forecasting, classification, and anomaly detection
+
+- 🤖 **AI Automation Tools**
+  - AI agents and scripts to automate workflows and decision-making processes
+
+- 📊 **Data Processing Pipelines**
+  - Data cleaning, transformation, and feature engineering pipelines
+
+- 🗣️ **NLP Applications**
+  - Chatbots, text analysis, and language-based AI systems
+
+- 👁️ **Computer Vision **
+  - Image recognition and object detection systems
 
 ---
 
@@ -87,63 +91,14 @@ A few things I spend most of my time on:
 ## 📊 GitHub Activity
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomast1906&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redaoujane&theme=github)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thomast1906&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thomast1906&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=redaoujane&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=redaoujane&theme=github)
 
 </div>
 
 <div align="center">
 
-[![Thomas' GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thomast1906&bg_color=ffffff&color=0078D4&line=0078D4&point=003087&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![TROJAN' GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=redaoujane&bg_color=ffffff&color=0078D4&line=0078D4&point=003087&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
----
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Packaging GitHub Copilot Agents and Skills with Agent Package Manager](https://thomasthornton.cloud/packaging-github-copilot-agents-and-skills-with-agent-package-manager/)
-- [Creating Diagrams with an Excalidraw Agent Skill and Excalidraw MCP](https://thomasthornton.cloud/creating-diagrams-with-an-excalidraw-agent-skill-and-excalidraw-mcp/)
-- [Azure Pricing Skill for GitHub Copilot Using Azure MCP](https://thomasthornton.cloud/azure-pricing-skill-for-github-copilot-using-azure-mcp/)
-- [AWS Diagram Agent Skill with Draw.io MCP](https://thomasthornton.cloud/aws-diagram-agent-skill-with-draw-io-mcp/)
-- [Automating Terraform provider upgrades with GitHub Agentic Workflows](https://thomasthornton.cloud/automating-terraform-provider-upgrades-with-github-agentic-workflows/)
-<!-- BLOG-POST-LIST:END -->
-
-**Topics I write about:**
-- Azure Architecture & Production Patterns
-- Platform Engineering & Internal Developer Platforms
-- Agentic AI & GitHub Copilot automation
-- Terraform & Infrastructure as Code
-- GitHub Actions & CI/CD at scale
-- Kubernetes/AKS & container strategies
-- Cloud Security & Zero Trust governance
-- FinOps & cost optimisation
-
----
-
-## 🤝 Get in touch
-
-<div align="center">
-
-Open to speaking at conferences and meetups, collaborating on open source, and connecting with engineers working on Azure, agentic AI and Platform Engineering.
-
-[![Website](https://img.shields.io/badge/Website-thomasthornton.cloud-0078D4?style=flat-square)](https://thomasthornton.cloud/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thomas-thornton-21a86b75/)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=flat-square&logo=x)](https://twitter.com/tamstar1234)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/thomast1906.bsky.social)
-[![Email](https://img.shields.io/badge/Email-thomas@thomasthornton.cloud-D14836?style=flat-square&logo=gmail)](mailto:thomas@thomasthornton.cloud)
-
-</div>
-
----
-
-<div align="center">
-
-*"Anyone can get it working. The craft is building it so well that nobody has to think about it at 3 AM."*
-
-⭐️ If something here is useful, share it or drop me a message.
-
-</div>
