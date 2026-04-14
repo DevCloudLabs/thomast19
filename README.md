@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Cloud+Architect+%7C+Technical+Lead+%7C+Microsoft+MVP;HashiCorp+Ambassador+%7C+GitHub+Star;Building+platforms+developers+actually+love)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Cloud+Architect+%7C+Technical+Lead+%7C+Microsoft+MVP;HashiCorp+Ambassador+%7C+GitHub+Star;Building+platforms+developers+actually+love)](https://git.io/typing-svg)-->
 
-# 👋 I'm Thomas Thornton
+# 👋 I'm Reda Oujane
 
-### Azure Architect • Technical Lead • Agentic AI & Platform Engineering
+### AI & Data Enthusiast • Software Developer • Agentic AI & Platform Engineering
 
 **[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004187?fullName=Thomas%20Thornton)** • **[GitHub Star](https://stars.github.com/profiles/thomast1906)** • **[HashiCorp Ambassador](https://www.credly.com/badges/e5631c9f-5739-4bd1-86cc-913b929d34d9/linked_in_profile)**
 
